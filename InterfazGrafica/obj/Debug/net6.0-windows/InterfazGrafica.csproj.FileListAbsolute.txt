@@ -1,0 +1,56 @@
+D:\Games\Proyectoski 2do\InterfazGrafica\bin\Debug\net6.0-windows\Proyecto Domino.deps.json
+D:\Games\Proyectoski 2do\InterfazGrafica\bin\Debug\net6.0-windows\Proyecto Domino.runtimeconfig.json
+D:\Games\Proyectoski 2do\InterfazGrafica\bin\Debug\net6.0-windows\Proyecto Domino.exe
+D:\Games\Proyectoski 2do\InterfazGrafica\bin\Debug\net6.0-windows\InterfazGrafica.exe
+D:\Games\Proyectoski 2do\InterfazGrafica\bin\Debug\net6.0-windows\InterfazGrafica.deps.json
+D:\Games\Proyectoski 2do\InterfazGrafica\bin\Debug\net6.0-windows\InterfazGrafica.runtimeconfig.json
+D:\Games\Proyectoski 2do\InterfazGrafica\bin\Debug\net6.0-windows\InterfazGrafica.dll
+D:\Games\Proyectoski 2do\InterfazGrafica\bin\Debug\net6.0-windows\ref\InterfazGrafica.dll
+D:\Games\Proyectoski 2do\InterfazGrafica\bin\Debug\net6.0-windows\InterfazGrafica.pdb
+D:\Games\Proyectoski 2do\InterfazGrafica\bin\Debug\net6.0-windows\Proyecto Domino.dll
+D:\Games\Proyectoski 2do\InterfazGrafica\bin\Debug\net6.0-windows\Proyecto Domino.pdb
+D:\Games\Proyectoski 2do\InterfazGrafica\obj\Debug\net6.0-windows\InterfazGrafica.csproj.AssemblyReference.cache
+D:\Games\Proyectoski 2do\InterfazGrafica\obj\Debug\net6.0-windows\InterfazGrafica.Form1.resources
+D:\Games\Proyectoski 2do\InterfazGrafica\obj\Debug\net6.0-windows\InterfazGrafica.csproj.GenerateResource.cache
+D:\Games\Proyectoski 2do\InterfazGrafica\obj\Debug\net6.0-windows\InterfazGrafica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Games\Proyectoski 2do\InterfazGrafica\obj\Debug\net6.0-windows\InterfazGrafica.AssemblyInfoInputs.cache
+D:\Games\Proyectoski 2do\InterfazGrafica\obj\Debug\net6.0-windows\InterfazGrafica.AssemblyInfo.cs
+D:\Games\Proyectoski 2do\InterfazGrafica\obj\Debug\net6.0-windows\InterfazGrafica.csproj.CoreCompileInputs.cache
+D:\Games\Proyectoski 2do\InterfazGrafica\obj\Debug\net6.0-windows\InterfazGrafica.csproj.CopyComplete
+D:\Games\Proyectoski 2do\InterfazGrafica\obj\Debug\net6.0-windows\InterfazGrafica.dll
+D:\Games\Proyectoski 2do\InterfazGrafica\obj\Debug\net6.0-windows\ref\InterfazGrafica.dll
+D:\Games\Proyectoski 2do\InterfazGrafica\obj\Debug\net6.0-windows\InterfazGrafica.pdb
+D:\Games\Proyectoski 2do\InterfazGrafica\obj\Debug\net6.0-windows\InterfazGrafica.genruntimeconfig.cache
+D:\Games\Proyectoski 2do\InterfazGrafica\bin\Debug\net6.0-windows\Interfaces.deps.json
+D:\Games\Proyectoski 2do\InterfazGrafica\bin\Debug\net6.0-windows\Interfaces.runtimeconfig.json
+D:\Games\Proyectoski 2do\InterfazGrafica\bin\Debug\net6.0-windows\Interfaces.exe
+D:\Games\Proyectoski 2do\InterfazGrafica\bin\Debug\net6.0-windows\Interfaces.dll
+D:\Games\Proyectoski 2do\InterfazGrafica\bin\Debug\net6.0-windows\Interfaces.pdb
+D:\Games\Github\DoMino-main\InterfazGrafica\bin\Debug\net6.0-windows\Interfaces.deps.json
+D:\Games\Github\DoMino-main\InterfazGrafica\bin\Debug\net6.0-windows\Interfaces.runtimeconfig.json
+D:\Games\Github\DoMino-main\InterfazGrafica\bin\Debug\net6.0-windows\Interfaces.exe
+D:\Games\Github\DoMino-main\InterfazGrafica\bin\Debug\net6.0-windows\Proyecto Domino.deps.json
+D:\Games\Github\DoMino-main\InterfazGrafica\bin\Debug\net6.0-windows\Proyecto Domino.runtimeconfig.json
+D:\Games\Github\DoMino-main\InterfazGrafica\bin\Debug\net6.0-windows\Proyecto Domino.exe
+D:\Games\Github\DoMino-main\InterfazGrafica\bin\Debug\net6.0-windows\InterfazGrafica.exe
+D:\Games\Github\DoMino-main\InterfazGrafica\bin\Debug\net6.0-windows\InterfazGrafica.deps.json
+D:\Games\Github\DoMino-main\InterfazGrafica\bin\Debug\net6.0-windows\InterfazGrafica.runtimeconfig.json
+D:\Games\Github\DoMino-main\InterfazGrafica\bin\Debug\net6.0-windows\InterfazGrafica.dll
+D:\Games\Github\DoMino-main\InterfazGrafica\bin\Debug\net6.0-windows\ref\InterfazGrafica.dll
+D:\Games\Github\DoMino-main\InterfazGrafica\bin\Debug\net6.0-windows\InterfazGrafica.pdb
+D:\Games\Github\DoMino-main\InterfazGrafica\bin\Debug\net6.0-windows\Interfaces.dll
+D:\Games\Github\DoMino-main\InterfazGrafica\bin\Debug\net6.0-windows\Proyecto Domino.dll
+D:\Games\Github\DoMino-main\InterfazGrafica\bin\Debug\net6.0-windows\Interfaces.pdb
+D:\Games\Github\DoMino-main\InterfazGrafica\bin\Debug\net6.0-windows\Proyecto Domino.pdb
+D:\Games\Github\DoMino-main\InterfazGrafica\obj\Debug\net6.0-windows\InterfazGrafica.csproj.AssemblyReference.cache
+D:\Games\Github\DoMino-main\InterfazGrafica\obj\Debug\net6.0-windows\InterfazGrafica.Form1.resources
+D:\Games\Github\DoMino-main\InterfazGrafica\obj\Debug\net6.0-windows\InterfazGrafica.csproj.GenerateResource.cache
+D:\Games\Github\DoMino-main\InterfazGrafica\obj\Debug\net6.0-windows\InterfazGrafica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Games\Github\DoMino-main\InterfazGrafica\obj\Debug\net6.0-windows\InterfazGrafica.AssemblyInfoInputs.cache
+D:\Games\Github\DoMino-main\InterfazGrafica\obj\Debug\net6.0-windows\InterfazGrafica.AssemblyInfo.cs
+D:\Games\Github\DoMino-main\InterfazGrafica\obj\Debug\net6.0-windows\InterfazGrafica.csproj.CoreCompileInputs.cache
+D:\Games\Github\DoMino-main\InterfazGrafica\obj\Debug\net6.0-windows\InterfazGrafica.csproj.CopyComplete
+D:\Games\Github\DoMino-main\InterfazGrafica\obj\Debug\net6.0-windows\InterfazGrafica.dll
+D:\Games\Github\DoMino-main\InterfazGrafica\obj\Debug\net6.0-windows\ref\InterfazGrafica.dll
+D:\Games\Github\DoMino-main\InterfazGrafica\obj\Debug\net6.0-windows\InterfazGrafica.pdb
+D:\Games\Github\DoMino-main\InterfazGrafica\obj\Debug\net6.0-windows\InterfazGrafica.genruntimeconfig.cache

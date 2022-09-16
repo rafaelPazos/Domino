@@ -1,0 +1,30 @@
+D:\Games\Proyectoski 2do\Interfaces\bin\Debug\net6.0\Interfaces.exe
+D:\Games\Proyectoski 2do\Interfaces\bin\Debug\net6.0\Interfaces.deps.json
+D:\Games\Proyectoski 2do\Interfaces\bin\Debug\net6.0\Interfaces.runtimeconfig.json
+D:\Games\Proyectoski 2do\Interfaces\bin\Debug\net6.0\Interfaces.dll
+D:\Games\Proyectoski 2do\Interfaces\bin\Debug\net6.0\ref\Interfaces.dll
+D:\Games\Proyectoski 2do\Interfaces\bin\Debug\net6.0\Interfaces.pdb
+D:\Games\Proyectoski 2do\Interfaces\obj\Debug\net6.0\Interfaces.csproj.AssemblyReference.cache
+D:\Games\Proyectoski 2do\Interfaces\obj\Debug\net6.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Games\Proyectoski 2do\Interfaces\obj\Debug\net6.0\Interfaces.AssemblyInfoInputs.cache
+D:\Games\Proyectoski 2do\Interfaces\obj\Debug\net6.0\Interfaces.AssemblyInfo.cs
+D:\Games\Proyectoski 2do\Interfaces\obj\Debug\net6.0\Interfaces.csproj.CoreCompileInputs.cache
+D:\Games\Proyectoski 2do\Interfaces\obj\Debug\net6.0\Interfaces.dll
+D:\Games\Proyectoski 2do\Interfaces\obj\Debug\net6.0\ref\Interfaces.dll
+D:\Games\Proyectoski 2do\Interfaces\obj\Debug\net6.0\Interfaces.pdb
+D:\Games\Proyectoski 2do\Interfaces\obj\Debug\net6.0\Interfaces.genruntimeconfig.cache
+D:\Games\Github\DoMino-main\Interfaces\bin\Debug\net6.0\Interfaces.exe
+D:\Games\Github\DoMino-main\Interfaces\bin\Debug\net6.0\Interfaces.deps.json
+D:\Games\Github\DoMino-main\Interfaces\bin\Debug\net6.0\Interfaces.runtimeconfig.json
+D:\Games\Github\DoMino-main\Interfaces\bin\Debug\net6.0\Interfaces.dll
+D:\Games\Github\DoMino-main\Interfaces\bin\Debug\net6.0\ref\Interfaces.dll
+D:\Games\Github\DoMino-main\Interfaces\bin\Debug\net6.0\Interfaces.pdb
+D:\Games\Github\DoMino-main\Interfaces\obj\Debug\net6.0\Interfaces.csproj.AssemblyReference.cache
+D:\Games\Github\DoMino-main\Interfaces\obj\Debug\net6.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Games\Github\DoMino-main\Interfaces\obj\Debug\net6.0\Interfaces.AssemblyInfoInputs.cache
+D:\Games\Github\DoMino-main\Interfaces\obj\Debug\net6.0\Interfaces.AssemblyInfo.cs
+D:\Games\Github\DoMino-main\Interfaces\obj\Debug\net6.0\Interfaces.csproj.CoreCompileInputs.cache
+D:\Games\Github\DoMino-main\Interfaces\obj\Debug\net6.0\Interfaces.dll
+D:\Games\Github\DoMino-main\Interfaces\obj\Debug\net6.0\ref\Interfaces.dll
+D:\Games\Github\DoMino-main\Interfaces\obj\Debug\net6.0\Interfaces.pdb
+D:\Games\Github\DoMino-main\Interfaces\obj\Debug\net6.0\Interfaces.genruntimeconfig.cache
